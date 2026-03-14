@@ -3499,11 +3499,6 @@
 		"thumb": "thumbs/gun-smoke.avif"
 	},
 	{
-		"file_name": "gunk-night.html",
-		"title": "Gunk Night",
-		"thumb": "thumbs/gunk-night.avif"
-	},
-	{
 		"file_name": "guns-pin.html",
 		"title": "Guns Pin",
 		"thumb": "thumbs/guns-pin.avif"
@@ -8268,5 +8263,10 @@
 		"file_name": "oh-flip.html",
 		"title": "Oh, Flip!",
 		"thumb": "thumbs/oh-flip.avif"
+	},
+	{
+		"file_name": "gun-knight.html",
+		"title": "Gun Knight",
+		"thumb": "thumbs/gun-knight.avif"
 	}
 ]
